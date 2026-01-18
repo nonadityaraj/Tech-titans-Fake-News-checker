@@ -3,7 +3,7 @@
 
 ---
 
-## 👥 Team Details
+##  Team Details
 --
 
 
@@ -32,25 +32,25 @@
 
 ---
 
-## 🆔 Problem Statement ID
+##  Problem Statement ID
 **Open Theme**
 
 ---
 
-## 🧩 Problem Statement
+##  Problem Statement
 Fake news detection is a critical challenge in India due to the rapid spread of misinformation through social media platforms, WhatsApp, and digital news applications. Such misinformation impacts elections, public health awareness, and social harmony.  
 This project aims to build a machine learning–based system that classifies news articles or headlines as **real or fake** using **Natural Language Processing (NLP)** techniques, with a strong focus on the **Indian context**.
 
 ---
 
-## 📝 Description
+##  Description
 The proposed system utilizes NLP and supervised machine learning algorithms to analyze textual news data and identify misleading or false information. The project involves preprocessing news content, extracting meaningful textual features, and training multiple classification models to accurately detect fake news.  
 
 Datasets from government fact-check sources and publicly available repositories are used to ensure authenticity and relevance to Indian scenarios. The system also explores basic support for **Hindi and Indian-language words** to improve contextual understanding.
 
 ---
 
-## 📌 Outline of the Project
+##  Outline of the Project
 - Collection of real and fake news datasets from **PIB Fact Check** and **Kaggle**
 - Data preprocessing including:
   - Text cleaning  
@@ -71,14 +71,14 @@ Datasets from government fact-check sources and publicly available repositories 
 
 ---
 
-## 📚 Libraries Used
+##  Libraries Used
 - NLP  
 - React  
 - Node.js  
 
 ---
 
-## ✨ Highlights
+##  Highlights
 - Focus on the **Indian fake news ecosystem**
 - Use of **government fact-check datasets (PIB)**
 - Comparison of multiple ML classification models
@@ -87,5 +87,5 @@ Datasets from government fact-check sources and publicly available repositories 
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 Thank you for reviewing our project.
