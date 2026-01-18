@@ -7,7 +7,7 @@
 --
 
 
-**Team Name:** Turing’s Playground  
+**Team Name:** Tech Titans  
 
 ### Team Members
 - **Aditya Raj (Team Leader)**  
